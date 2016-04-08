@@ -62,4 +62,7 @@
   <ItemGroup>
     <Build Include="ProcStock\PRC_GetEmails.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ProcStock\SRC_ListerTablesColonnes.sql" />
+  </ItemGroup>
 </Project>
